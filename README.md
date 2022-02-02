@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **React, Redux, Node, Python, Threejs, WebGL**
 
-- 👨‍💻 All of my projects are available at [https://achaq.com](https://achaq.com)
-
-- 📝 I regularly write articles on [https://achaq.com/blog](https://achaq.com/blog)
+- 👨‍💻 All of my projects are available at [https://achaq.codes](https://achaq.codes)
 
 - 💬 Ask me about **Javascript, Typescript**
-
-- 📄 Know about my experiences [https://achaq.com/resume](https://achaq.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
