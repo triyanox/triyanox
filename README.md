@@ -1,9 +1,3 @@
-
- <div align="center">
-<img src="https://achaq.codes/_next/static/media/hero.4f4bf250.svg" align="center" style="width: 50%" />
-</div>  
-  
-
 ### <div align="center">I'm Mohamed Achaq Full Stack Developer💻 , UI and UX designer 🎨 and Artsit 🧑‍🎨</div>  
   
 
