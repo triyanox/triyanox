@@ -1,11 +1,9 @@
-### <div align="center">I'm Mohamed Achaq Full Stack Developer💻 , UI and UX designer 🎨 and Artsit 🧑‍🎨</div>  
-  
-
-<br/>  
-
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
-
-
+<div style="background: #BD19CF;
+background: -webkit-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
+background: -moz-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
+background: linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;">Full Stack developer, UI/UX designer and Artist from Morocco .</div>
 
 ### Frontend  
 <div align="center">  
