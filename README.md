@@ -57,7 +57,7 @@
 
 <br/>  
 
-<details><summary> Connect with me </summary><div align="left">
+<details><summary> Connect with me </summary><div align="center">
 <a href="https://github.com/triyanox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -84,7 +84,7 @@
 
 <br/>  
 
-<details><summary> Github Stats </summary><div align="right"><img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="left" /></details>  
 
