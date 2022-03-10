@@ -88,6 +88,7 @@
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
+<div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="left" /></details>  
 </div>
 <br/>  
