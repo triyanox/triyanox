@@ -1,6 +1,8 @@
-##Full Stack developer, UI/UX designer and Artist from Morocco .
+## Full Stack developer, UI/UX designer and Artist from Morocco .
 <br/>
 <br/>
+
+## My skills:
 
 ### Frontend  
 <div align="center">  
