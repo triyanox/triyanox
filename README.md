@@ -1,9 +1,4 @@
-<div class="background: #BD19CF;
-background: -webkit-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
-background: -moz-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
-background: linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;">Full Stack developer, UI/UX designer and Artist from Morocco .</div>
+<div style="font-size:24px">Full Stack developer, UI/UX designer and Artist from Morocco .</div>
 
 ### Frontend  
 <div align="center">  
