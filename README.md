@@ -1,9 +1,10 @@
 ## Full Stack developer, UI/UX designer and Artist from Morocco .
 <br/>
 <br/>
-
+<br/>  
 ## My skills:
-
+<br/>  
+<br/>  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -59,6 +60,8 @@
 <br/>
 
 ## Connect with me
+<br/>  
+<br/>  
 <a href="https://github.com/triyanox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -85,11 +88,13 @@
 <br/>
 
 ## Github Stats 
+<br/>  
+<br/>  
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="left" /></details>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="center" /></details>  
 </div>
 <br/>  
 <br/>  
