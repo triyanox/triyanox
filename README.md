@@ -53,9 +53,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
-</td></tr></table></details>  
 
 <br/>  
+<br/>  
+<br/>
 
 ## Connect with me
 <a href="https://github.com/triyanox" target="_blank">
@@ -79,25 +80,18 @@
 <a href="https://www.youtube.com/user/triyanox" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-</details>  
+
 
 <br/>  
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+## Github Stats 
+  
+<img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="left" /></details>  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
-<br/>  
-
+<br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=triyanox&&style=flat-square" align="center" />
 </div>  
