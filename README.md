@@ -96,12 +96,18 @@
 ## Github Stats 
 <br/>  
 <br/>  
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=triyanox&show_icons=true&locale=en&layout=compact" alt="triyanox" /></p>
+ </div>
+
+<div align="center">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&locale=en" alt="triyanox" /></p>
+ </div>
+
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=triyanox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triyanox&hide_border=true&layout=compact" align="center" /></details>  
-</div>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=triyanox&" alt="triyanox" /></p>
+ </div>
+
 <br/>  
 <br/>  
 <br/>
