@@ -1,4 +1,6 @@
-<div style="font-size:24px">Full Stack developer, UI/UX designer and Artist from Morocco .</div>
+##Full Stack developer, UI/UX designer and Artist from Morocco .
+<br/>
+<br/>
 
 ### Frontend  
 <div align="center">  
