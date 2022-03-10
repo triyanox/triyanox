@@ -1,7 +1,5 @@
-<h1 align="center" style="margin:16px">Full Stack developer, UI/UX designer and Artist from Morocco .
-</h1>
+<h1 align="center" style="margin:16px">Full Stack developer, UI/UX designer and Artist from Morocco .</h1>
 
-<br/>
 <br/>
 <br/>  
 
