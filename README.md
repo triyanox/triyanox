@@ -5,7 +5,6 @@ Hello, my name is Mohamed Achaq and I'm a software developer and UI/UX designer 
 </p>
 <br/>
 <br/>
-<h2>check out my latest blog</h2>
-<br/>
-<li><a href="https://achaq.codes/blog/nodejs-expressjs" target="_blank">https://achaq.codes/>Build your first API with nodejs and express
+<h2>Check out my latest blog</h2>
+<li><a href="https://achaq.codes/blog/nodejs-expressjs" target="_blank">Build your first API with nodejs and express</a>
 </a></li>
