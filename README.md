@@ -1,4 +1,4 @@
-<div style="background: #BD19CF;
+<div class="background: #BD19CF;
 background: -webkit-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
 background: -moz-linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
 background: linear-gradient(to right, #BD19CF 0%, #0CC2CF 100%);
