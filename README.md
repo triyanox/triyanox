@@ -6,5 +6,6 @@ Hello, my name is Mohamed Achaq and I'm a software developer and UI/UX designer 
 <br/>
 <br/>
 <h2>Check out my latest blog</h2>
-<li><a href="https://achaq.codes/blog/typescript-design-patterns" target="_blank">Typescript Design Patterns</a>
+<li><a href="https://achaq.codes/blog/compilers" target="_blank">Compilers, and how to write one !
+</a>
 </a></li>
